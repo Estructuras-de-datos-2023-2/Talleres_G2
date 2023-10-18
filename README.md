@@ -1,1 +1,1 @@
-# Talleres_G2
+# Proyecto_G2
